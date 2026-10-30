@@ -16,7 +16,7 @@ curl -sL [https://raw.githubusercontent.com/TBF-official/tbf-setup/main/tbf-setu
 🛠 Manual Setup
 If you prefer to clone and run the script manually:
 # 1. Clone the repository
-git clone https://github.com/TBF-of/tbf-setup.git
+git clone https://github.com/TBF-of/Termux-setup.git
 
 # 2. Enter the directory
 cd tbf-setup
